@@ -1,3 +1,3 @@
 # CG
 
-![画像の説明](./myWork.png)
+![画像](./myWork.png)
